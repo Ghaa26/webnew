@@ -56,8 +56,9 @@ body {
 }
 h1 {
 	text-align: center;
+	margin: 20px;
 }
-h1 h2 p{
+h2 p{
 	margin: 30px;
 }
 * {
