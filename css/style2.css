@@ -57,7 +57,13 @@ body {
 h1 {
 	text-align: center;
 }
-h1 h2 p{
+h1 {
+	margin: 20px;
+}
+h2 {
+	margin: 20px;
+}
+p{
 	margin: 30px;
 }
 * {
