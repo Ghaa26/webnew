@@ -53,8 +53,9 @@ body {
 	background-image: url(./GAMBAR/SIRKULASI_UPI.jpg);
 	background-size: cover;
 	background-position: 0 0px;
-h1 {
+h1 h2 p{
 	text-align: center;
+	margin: 20px;
 }
 * {
   user-select: none !important;         /* Nonaktifkan seleksi teks */
