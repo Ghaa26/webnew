@@ -56,11 +56,13 @@ body {
 }
 h1 {
 	text-align: center;
-	margin: 20px;
-}
-h2 p{
 	margin: 30px;
 }
+h2 {
+	margin: 30px;
+}
+p {
+	margin: 30px;
 * {
   user-select: none !important;         /* Nonaktifkan seleksi teks */
   -webkit-user-select: none !important; /* Safari/Chrome */
